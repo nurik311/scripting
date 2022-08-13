@@ -10,14 +10,14 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 git clone https://github.com/nurik311/scripting.git
 ```
 
-## Usage of [Bash_Scripts](Bash_scripts)
+## Usage of [Bash_Scripts](bash_scripts)
 
 ```bash
 bash bash_scripts/<script>
 ```
 #### Note: Change ```<script>``` to script name.
 
-## Usage of [Python_Scripts](Python_scripts)
+## Usage of [Python_Scripts](python_scripts)
 
 ```bash
 python3 python_scripts/<script>
