@@ -20,6 +20,6 @@ bash bash_scripts/<script>
 ## Usage of [Python_Scripts](Python_scripts)
 
 ```bash
-python python_scripts/<script>
+python3 python_scripts/<script>
 ```
 #### Note: Change ```<script>``` to script name.
