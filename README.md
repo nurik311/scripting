@@ -13,13 +13,13 @@ git clone https://github.com/nurik311/scripting.git
 ## Usage of [Bash_Scripts](Bash_scripts)
 
 ```bash
-python pyton_scripts/<script>
+bash bash_scripts/<script>
 ```
 #### Note: Change ```<script>``` to script name.
 
 ## Usage of [Python_Scripts](Python_scripts)
 
 ```bash
-bash_scripts/<script>
+python python_scripts/<script>
 ```
 #### Note: Change ```<script>``` to script name.
